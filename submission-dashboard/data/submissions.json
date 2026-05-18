@@ -1,0 +1,7002 @@
+[
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 94.1,
+    "timestamp": "2025-09-12T16:41:48Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 59.1,
+    "timestamp": "2025-10-09T21:08:21Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 60.8,
+    "timestamp": "2025-09-04T08:12:47Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 49.1,
+    "timestamp": "2025-10-18T18:00:23Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 70.0,
+    "timestamp": "2025-09-27T20:57:12Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 52.2,
+    "timestamp": "2025-09-06T23:00:40Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 11.8,
+    "timestamp": "2025-10-17T13:28:45Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 44.7,
+    "timestamp": "2025-11-21T22:43:22Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 19.3,
+    "timestamp": "2025-09-22T11:08:16Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 60.1,
+    "timestamp": "2025-12-01T04:01:52Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 37.9,
+    "timestamp": "2025-12-04T16:13:43Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 74.6,
+    "timestamp": "2025-09-15T18:29:12Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 23.1,
+    "timestamp": "2025-09-03T15:06:58Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 48.1,
+    "timestamp": "2025-10-03T22:07:12Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 46.7,
+    "timestamp": "2025-12-02T22:55:51Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 44.3,
+    "timestamp": "2025-10-23T19:35:24Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 79.4,
+    "timestamp": "2025-10-20T23:27:31Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 32.1,
+    "timestamp": "2025-10-24T15:48:41Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 67.9,
+    "timestamp": "2025-11-17T20:16:18Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 16.4,
+    "timestamp": "2025-10-16T16:31:17Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 47.0,
+    "timestamp": "2025-10-20T04:21:29Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 30.9,
+    "timestamp": "2025-09-02T23:41:34Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 47.6,
+    "timestamp": "2025-09-03T18:49:49Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 56.1,
+    "timestamp": "2025-09-05T05:11:40Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 26.0,
+    "timestamp": "2025-09-03T05:07:21Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 49.7,
+    "timestamp": "2025-09-15T08:02:06Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 18.8,
+    "timestamp": "2025-09-16T10:04:08Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 65.8,
+    "timestamp": "2025-09-24T16:40:03Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 19.0,
+    "timestamp": "2025-09-02T05:53:25Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 58.5,
+    "timestamp": "2025-10-19T01:32:58Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 72.9,
+    "timestamp": "2025-09-25T13:32:39Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 34.1,
+    "timestamp": "2025-10-01T06:14:14Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 52.2,
+    "timestamp": "2025-10-07T00:22:11Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 30.0,
+    "timestamp": "2025-09-23T10:25:08Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 62.2,
+    "timestamp": "2025-10-08T10:53:12Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 82.0,
+    "timestamp": "2025-10-16T15:35:55Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 60.5,
+    "timestamp": "2025-10-08T01:31:59Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 79.8,
+    "timestamp": "2025-09-15T09:09:51Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 7.4,
+    "timestamp": "2025-09-20T22:47:48Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 56.1,
+    "timestamp": "2025-10-17T19:14:16Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 55.2,
+    "timestamp": "2025-09-12T03:46:24Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 30.5,
+    "timestamp": "2025-10-18T11:23:29Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 16.7,
+    "timestamp": "2025-10-03T21:01:34Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 25.1,
+    "timestamp": "2025-09-13T16:24:51Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 86.7,
+    "timestamp": "2025-09-29T02:55:48Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 60.6,
+    "timestamp": "2025-11-26T08:25:02Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 56.5,
+    "timestamp": "2025-10-14T13:33:27Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 37.7,
+    "timestamp": "2025-09-05T20:36:44Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 35.0,
+    "timestamp": "2025-09-30T11:21:37Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 15.0,
+    "timestamp": "2025-10-04T06:36:40Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 46.8,
+    "timestamp": "2025-10-19T03:34:43Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 29.1,
+    "timestamp": "2025-10-18T05:31:07Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 76.3,
+    "timestamp": "2025-10-16T05:01:11Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 50.9,
+    "timestamp": "2025-09-11T19:33:20Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 54.3,
+    "timestamp": "2025-11-22T19:59:09Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 50.9,
+    "timestamp": "2025-11-29T04:32:01Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 37.7,
+    "timestamp": "2025-09-18T06:55:42Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 64.9,
+    "timestamp": "2025-09-27T22:36:53Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 13.8,
+    "timestamp": "2025-09-22T07:00:58Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 74.7,
+    "timestamp": "2025-10-01T06:07:39Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 18.7,
+    "timestamp": "2025-10-15T05:46:03Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 98.6,
+    "timestamp": "2025-12-03T10:55:19Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 23.3,
+    "timestamp": "2025-10-03T01:38:03Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 3.8,
+    "timestamp": "2025-10-10T17:45:14Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 77.1,
+    "timestamp": "2025-09-02T07:29:36Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 53.4,
+    "timestamp": "2025-11-29T15:18:00Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 81.5,
+    "timestamp": "2025-09-04T23:51:14Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 32.6,
+    "timestamp": "2025-09-05T01:12:22Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 45.5,
+    "timestamp": "2025-09-30T22:57:45Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 41.2,
+    "timestamp": "2025-11-19T22:37:33Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 56.4,
+    "timestamp": "2025-09-13T17:02:07Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 42.2,
+    "timestamp": "2025-10-23T01:32:26Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 19.0,
+    "timestamp": "2025-10-15T08:05:59Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 65.3,
+    "timestamp": "2025-11-28T05:24:30Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 47.7,
+    "timestamp": "2025-12-04T08:45:03Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 24.7,
+    "timestamp": "2025-10-15T12:54:15Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 48.3,
+    "timestamp": "2025-09-06T17:55:00Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 30.5,
+    "timestamp": "2025-11-29T18:03:53Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 59.9,
+    "timestamp": "2025-09-29T05:11:00Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 33.4,
+    "timestamp": "2025-09-13T15:28:01Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 70.1,
+    "timestamp": "2025-10-04T04:10:16Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 62.7,
+    "timestamp": "2025-09-30T14:03:55Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 14.5,
+    "timestamp": "2025-10-04T02:07:44Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 59.3,
+    "timestamp": "2025-09-19T07:07:52Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 51.3,
+    "timestamp": "2025-10-11T21:52:25Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 91.6,
+    "timestamp": "2025-09-07T05:41:45Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 24.2,
+    "timestamp": "2025-12-02T14:22:20Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 58.3,
+    "timestamp": "2025-09-12T16:50:58Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 75.1,
+    "timestamp": "2025-09-18T07:01:18Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 36.3,
+    "timestamp": "2025-09-26T19:48:52Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 19.3,
+    "timestamp": "2025-10-03T05:09:31Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 92.4,
+    "timestamp": "2025-09-23T08:35:53Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 28.7,
+    "timestamp": "2025-09-20T09:10:37Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 100,
+    "timestamp": "2025-09-27T06:44:30Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 20.0,
+    "timestamp": "2025-09-12T23:57:15Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 39.1,
+    "timestamp": "2025-09-18T07:58:02Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 55.2,
+    "timestamp": "2025-12-02T13:09:54Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 78.9,
+    "timestamp": "2025-09-07T15:19:21Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 39.7,
+    "timestamp": "2025-11-25T10:42:07Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 17.0,
+    "timestamp": "2025-10-22T00:21:16Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 16.6,
+    "timestamp": "2025-11-17T18:09:34Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 80.1,
+    "timestamp": "2025-10-14T11:48:57Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 89.7,
+    "timestamp": "2025-09-09T09:22:38Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 52.7,
+    "timestamp": "2025-09-20T07:24:48Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 25.4,
+    "timestamp": "2025-09-11T04:25:52Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 38.5,
+    "timestamp": "2025-09-19T01:34:50Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 58.8,
+    "timestamp": "2025-09-15T15:54:08Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 61.0,
+    "timestamp": "2025-11-26T15:08:38Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 31.7,
+    "timestamp": "2025-12-02T13:38:20Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 47.1,
+    "timestamp": "2025-09-09T17:47:14Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 65.1,
+    "timestamp": "2025-09-02T16:31:07Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 63.4,
+    "timestamp": "2025-10-24T00:18:30Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 37.9,
+    "timestamp": "2025-10-22T06:02:19Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 47.4,
+    "timestamp": "2025-09-23T16:56:33Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 9.9,
+    "timestamp": "2025-10-21T10:53:58Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 78.9,
+    "timestamp": "2025-10-23T23:02:59Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 54.1,
+    "timestamp": "2025-09-27T11:27:43Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 41.5,
+    "timestamp": "2025-10-03T00:11:36Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 43.3,
+    "timestamp": "2025-10-20T22:57:13Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 27.9,
+    "timestamp": "2025-09-20T12:31:06Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 45.1,
+    "timestamp": "2025-09-26T02:04:26Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 52.2,
+    "timestamp": "2025-12-01T19:31:35Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 50.1,
+    "timestamp": "2025-09-09T17:09:19Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 44.3,
+    "timestamp": "2025-09-30T10:17:47Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 51.3,
+    "timestamp": "2025-12-01T13:45:54Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 22.4,
+    "timestamp": "2025-10-09T23:48:06Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 76.2,
+    "timestamp": "2025-12-01T22:52:24Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 92.7,
+    "timestamp": "2025-10-08T13:34:09Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 72.0,
+    "timestamp": "2025-10-02T04:46:34Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 20.4,
+    "timestamp": "2025-12-01T23:38:23Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 61.0,
+    "timestamp": "2025-09-16T14:13:28Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 64.2,
+    "timestamp": "2025-10-18T23:10:48Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 7.6,
+    "timestamp": "2025-09-22T14:41:16Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 42.5,
+    "timestamp": "2025-11-19T14:58:19Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 61.9,
+    "timestamp": "2025-11-21T08:45:01Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 85.4,
+    "timestamp": "2025-11-30T17:36:34Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 12.5,
+    "timestamp": "2025-09-18T02:09:01Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 12.4,
+    "timestamp": "2025-10-01T03:04:16Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 54.4,
+    "timestamp": "2025-11-30T18:38:49Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 68.4,
+    "timestamp": "2025-09-27T07:13:46Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 29.4,
+    "timestamp": "2025-10-14T07:11:54Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 20.2,
+    "timestamp": "2025-09-20T06:49:11Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 60.4,
+    "timestamp": "2025-09-08T13:08:27Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 70.4,
+    "timestamp": "2025-09-22T16:21:31Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 15.0,
+    "timestamp": "2025-10-23T18:04:07Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 96.5,
+    "timestamp": "2025-11-24T03:22:29Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 50.4,
+    "timestamp": "2025-09-11T12:09:07Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 47.3,
+    "timestamp": "2025-10-13T12:41:58Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 85.1,
+    "timestamp": "2025-09-09T20:31:48Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 33.1,
+    "timestamp": "2025-12-01T06:17:32Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 35.6,
+    "timestamp": "2025-10-10T03:04:16Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 96.2,
+    "timestamp": "2025-11-30T08:27:16Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 51.6,
+    "timestamp": "2025-10-22T05:21:57Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 17.2,
+    "timestamp": "2025-11-18T01:19:48Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 23.0,
+    "timestamp": "2025-11-22T18:58:43Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 41.7,
+    "timestamp": "2025-11-26T19:24:15Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 53.8,
+    "timestamp": "2025-10-21T01:42:22Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 37.7,
+    "timestamp": "2025-10-20T11:44:16Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 72.7,
+    "timestamp": "2025-09-26T04:01:33Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 39.5,
+    "timestamp": "2025-09-25T17:55:53Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 80.6,
+    "timestamp": "2025-10-17T03:19:50Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 23.9,
+    "timestamp": "2025-09-07T00:09:32Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 41.6,
+    "timestamp": "2025-11-28T04:45:15Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 30.7,
+    "timestamp": "2025-11-24T15:12:33Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 74.7,
+    "timestamp": "2025-09-26T00:18:47Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 40.7,
+    "timestamp": "2025-09-21T04:13:55Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 50.9,
+    "timestamp": "2025-10-22T06:50:53Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 19.6,
+    "timestamp": "2025-09-24T08:47:40Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 9.4,
+    "timestamp": "2025-09-17T10:34:17Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 42.4,
+    "timestamp": "2025-12-02T04:26:27Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 68.2,
+    "timestamp": "2025-09-16T18:00:47Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 89.1,
+    "timestamp": "2025-09-09T23:38:45Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 46.3,
+    "timestamp": "2025-09-04T18:07:40Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 30.0,
+    "timestamp": "2025-09-25T06:33:49Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 48.9,
+    "timestamp": "2025-09-30T18:56:19Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 65.0,
+    "timestamp": "2025-09-26T06:52:30Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 54.2,
+    "timestamp": "2025-10-19T10:05:40Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 38.8,
+    "timestamp": "2025-09-09T00:21:19Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 36.8,
+    "timestamp": "2025-09-20T16:49:15Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 78.0,
+    "timestamp": "2025-11-30T01:12:25Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 67.1,
+    "timestamp": "2025-10-16T09:26:07Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 38.9,
+    "timestamp": "2025-10-19T17:10:40Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 41.4,
+    "timestamp": "2025-11-27T17:14:23Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 43.6,
+    "timestamp": "2025-09-26T01:45:37Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 67.8,
+    "timestamp": "2025-09-19T07:26:59Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 26.0,
+    "timestamp": "2025-10-24T06:06:56Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 91.6,
+    "timestamp": "2025-10-23T16:47:53Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 46.8,
+    "timestamp": "2025-09-22T16:40:55Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 35.4,
+    "timestamp": "2025-10-20T11:17:25Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 12.4,
+    "timestamp": "2025-10-19T01:57:44Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 62.3,
+    "timestamp": "2025-09-21T16:23:17Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 67.0,
+    "timestamp": "2025-09-19T13:28:49Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 75.2,
+    "timestamp": "2025-10-20T09:57:00Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 47.8,
+    "timestamp": "2025-11-26T14:53:08Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 95.4,
+    "timestamp": "2025-09-20T11:48:33Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 37.0,
+    "timestamp": "2025-10-21T12:11:29Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 50.4,
+    "timestamp": "2025-09-18T00:19:44Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 55.8,
+    "timestamp": "2025-09-09T14:41:19Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 6.0,
+    "timestamp": "2025-09-17T03:41:11Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 50.1,
+    "timestamp": "2025-09-24T22:55:49Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 78.8,
+    "timestamp": "2025-10-15T06:26:25Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 55.7,
+    "timestamp": "2025-09-26T02:21:09Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 49.3,
+    "timestamp": "2025-09-06T21:33:22Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 29.2,
+    "timestamp": "2025-10-17T20:19:08Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 57.8,
+    "timestamp": "2025-09-13T22:34:08Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 48.7,
+    "timestamp": "2025-10-19T17:31:53Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 33.1,
+    "timestamp": "2025-11-20T08:25:50Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 28.1,
+    "timestamp": "2025-11-30T02:23:04Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 46.7,
+    "timestamp": "2025-09-04T03:15:22Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 50.7,
+    "timestamp": "2025-09-26T16:46:04Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 50.7,
+    "timestamp": "2025-09-13T09:33:07Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 63.2,
+    "timestamp": "2025-09-05T16:00:58Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 64.4,
+    "timestamp": "2025-10-19T11:48:48Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 34.0,
+    "timestamp": "2025-10-10T06:33:25Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 73.9,
+    "timestamp": "2025-09-06T19:24:03Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 72.3,
+    "timestamp": "2025-10-25T17:59:19Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 20.7,
+    "timestamp": "2025-09-06T19:59:55Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 31.6,
+    "timestamp": "2025-10-04T07:19:26Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 50.1,
+    "timestamp": "2025-10-22T09:46:01Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 37.5,
+    "timestamp": "2025-09-15T15:37:34Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 36.7,
+    "timestamp": "2025-10-24T05:09:57Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 23.4,
+    "timestamp": "2025-10-24T02:32:21Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 63.0,
+    "timestamp": "2025-09-04T23:11:19Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 49.7,
+    "timestamp": "2025-09-06T16:53:50Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 53.9,
+    "timestamp": "2025-10-11T00:54:38Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 49.4,
+    "timestamp": "2025-10-05T01:27:29Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 40.0,
+    "timestamp": "2025-09-07T08:43:12Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 26.9,
+    "timestamp": "2025-11-22T12:56:47Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 56.2,
+    "timestamp": "2025-10-02T17:49:28Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 54.6,
+    "timestamp": "2025-11-26T23:20:32Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 81.8,
+    "timestamp": "2025-09-20T00:40:40Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 43.2,
+    "timestamp": "2025-09-16T11:16:22Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 62.1,
+    "timestamp": "2025-10-05T20:40:16Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 62.9,
+    "timestamp": "2025-09-23T18:52:41Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 32.6,
+    "timestamp": "2025-10-10T02:49:44Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 36.2,
+    "timestamp": "2025-10-07T17:26:27Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 37.2,
+    "timestamp": "2025-11-30T00:18:13Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 23.0,
+    "timestamp": "2025-12-04T14:19:20Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 68.6,
+    "timestamp": "2025-10-02T11:55:48Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 39.3,
+    "timestamp": "2025-09-26T13:07:20Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 83.0,
+    "timestamp": "2025-10-08T01:19:05Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 80.5,
+    "timestamp": "2025-10-14T04:34:13Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 96.9,
+    "timestamp": "2025-09-30T17:00:14Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 15.0,
+    "timestamp": "2025-10-19T15:29:52Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 65.5,
+    "timestamp": "2025-10-20T06:20:29Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 39.4,
+    "timestamp": "2025-09-29T18:27:27Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 54.2,
+    "timestamp": "2025-10-09T12:46:14Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 53.0,
+    "timestamp": "2025-09-16T07:37:03Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 58.8,
+    "timestamp": "2025-10-14T07:31:54Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 58.8,
+    "timestamp": "2025-09-23T18:21:17Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 66.1,
+    "timestamp": "2025-10-23T19:26:23Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 21.1,
+    "timestamp": "2025-09-30T04:21:21Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 46.6,
+    "timestamp": "2025-10-17T12:32:03Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 51.4,
+    "timestamp": "2025-09-07T08:22:14Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 41.8,
+    "timestamp": "2025-09-23T08:19:38Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 60.5,
+    "timestamp": "2025-11-27T06:06:07Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 61.5,
+    "timestamp": "2025-10-10T12:07:04Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 13.1,
+    "timestamp": "2025-10-17T16:45:15Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 34.6,
+    "timestamp": "2025-10-25T04:42:46Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 58.6,
+    "timestamp": "2025-11-30T12:57:38Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 53.0,
+    "timestamp": "2025-10-01T04:38:59Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 32.5,
+    "timestamp": "2025-09-18T07:24:02Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 48.0,
+    "timestamp": "2025-09-09T01:14:56Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 66.3,
+    "timestamp": "2025-10-22T16:01:27Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 70.2,
+    "timestamp": "2025-11-21T10:38:42Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 58.6,
+    "timestamp": "2025-09-25T10:04:34Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 43.4,
+    "timestamp": "2025-10-15T06:15:32Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 60.5,
+    "timestamp": "2025-10-06T17:16:55Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 65.5,
+    "timestamp": "2025-09-20T10:47:22Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 54.8,
+    "timestamp": "2025-11-23T15:37:40Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 42.3,
+    "timestamp": "2025-10-21T00:52:35Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 14.8,
+    "timestamp": "2025-09-05T13:39:14Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 62.6,
+    "timestamp": "2025-09-22T14:22:15Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 41.5,
+    "timestamp": "2025-10-24T09:04:28Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 29.4,
+    "timestamp": "2025-12-01T22:10:37Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 6.9,
+    "timestamp": "2025-10-24T13:23:05Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 37.2,
+    "timestamp": "2025-10-22T12:52:14Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 70.3,
+    "timestamp": "2025-10-15T12:31:49Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 50.0,
+    "timestamp": "2025-09-13T12:28:59Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 40.0,
+    "timestamp": "2025-11-26T02:28:14Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 52.3,
+    "timestamp": "2025-10-07T10:35:26Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 65.4,
+    "timestamp": "2025-10-17T19:25:15Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 32.0,
+    "timestamp": "2025-10-17T07:35:00Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 70.6,
+    "timestamp": "2025-10-02T10:59:10Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 26.3,
+    "timestamp": "2025-10-13T23:13:14Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 47.8,
+    "timestamp": "2025-10-23T20:41:15Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 50.2,
+    "timestamp": "2025-11-26T11:57:59Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 43.0,
+    "timestamp": "2025-10-21T23:05:02Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 22.9,
+    "timestamp": "2025-11-21T05:14:34Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 44.5,
+    "timestamp": "2025-10-03T00:41:28Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 97.7,
+    "timestamp": "2025-12-04T02:26:26Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 18.9,
+    "timestamp": "2025-09-12T22:27:03Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 9.9,
+    "timestamp": "2025-09-24T22:22:57Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 60.1,
+    "timestamp": "2025-09-30T14:04:40Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 58.8,
+    "timestamp": "2025-11-27T15:15:15Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 39.4,
+    "timestamp": "2025-10-19T13:00:05Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 47.4,
+    "timestamp": "2025-10-18T06:18:34Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 51.6,
+    "timestamp": "2025-09-01T21:59:38Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 1.5,
+    "timestamp": "2025-10-23T15:15:00Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 60.4,
+    "timestamp": "2025-09-17T11:38:16Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 43.6,
+    "timestamp": "2025-09-26T21:14:10Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 48.3,
+    "timestamp": "2025-10-21T03:49:55Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 55.9,
+    "timestamp": "2025-11-18T09:04:25Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 91.6,
+    "timestamp": "2025-12-02T15:50:04Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 16.7,
+    "timestamp": "2025-10-16T20:04:10Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 74.4,
+    "timestamp": "2025-10-15T15:14:48Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 38.0,
+    "timestamp": "2025-11-19T13:53:41Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 35.1,
+    "timestamp": "2025-10-10T08:39:51Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 39.1,
+    "timestamp": "2025-10-19T05:54:33Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 64.5,
+    "timestamp": "2025-10-24T16:00:25Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 4.8,
+    "timestamp": "2025-09-18T08:04:49Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 83.1,
+    "timestamp": "2025-11-23T11:47:58Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 44.7,
+    "timestamp": "2025-09-08T11:40:08Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 68.8,
+    "timestamp": "2025-09-02T06:19:22Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 84.8,
+    "timestamp": "2025-10-10T04:20:01Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 47.4,
+    "timestamp": "2025-09-30T00:14:23Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 55.5,
+    "timestamp": "2025-09-02T10:12:50Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 95.8,
+    "timestamp": "2025-10-13T02:48:53Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 11.4,
+    "timestamp": "2025-09-29T15:40:47Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 26.2,
+    "timestamp": "2025-09-02T05:54:59Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 57.9,
+    "timestamp": "2025-10-01T14:58:31Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 47.7,
+    "timestamp": "2025-10-14T04:54:53Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 62.1,
+    "timestamp": "2025-11-17T15:10:58Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 56.2,
+    "timestamp": "2025-09-22T16:17:55Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 73.5,
+    "timestamp": "2025-10-23T19:46:48Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 52.6,
+    "timestamp": "2025-09-22T22:39:59Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 81.9,
+    "timestamp": "2025-09-06T13:03:18Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 49.1,
+    "timestamp": "2025-12-03T21:30:57Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 27.2,
+    "timestamp": "2025-10-14T01:59:28Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 15.3,
+    "timestamp": "2025-10-09T03:40:40Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 27.5,
+    "timestamp": "2025-11-29T18:18:32Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 56.2,
+    "timestamp": "2025-09-09T10:23:23Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 78.0,
+    "timestamp": "2025-09-21T11:38:21Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 15.1,
+    "timestamp": "2025-09-29T11:50:44Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 32.4,
+    "timestamp": "2025-11-25T02:00:36Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 30.0,
+    "timestamp": "2025-11-29T01:10:53Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 49.5,
+    "timestamp": "2025-10-20T07:59:47Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 39.1,
+    "timestamp": "2025-09-02T11:18:33Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 54.3,
+    "timestamp": "2025-10-23T06:03:28Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 19.5,
+    "timestamp": "2025-09-10T05:43:10Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 31.3,
+    "timestamp": "2025-10-05T12:44:52Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 22.1,
+    "timestamp": "2025-09-17T18:43:52Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 73.3,
+    "timestamp": "2025-10-21T16:58:55Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 95.7,
+    "timestamp": "2025-09-06T00:27:16Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 18.9,
+    "timestamp": "2025-11-23T19:22:47Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 67.4,
+    "timestamp": "2025-10-24T13:57:17Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 38.0,
+    "timestamp": "2025-10-16T22:21:07Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 34.2,
+    "timestamp": "2025-10-19T07:33:07Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 30.4,
+    "timestamp": "2025-09-03T11:45:46Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 11.5,
+    "timestamp": "2025-11-29T07:31:56Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 32.4,
+    "timestamp": "2025-10-23T03:34:52Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 9.2,
+    "timestamp": "2025-11-23T11:25:32Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 38.0,
+    "timestamp": "2025-10-05T07:15:46Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 47.2,
+    "timestamp": "2025-09-18T15:58:52Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 48.7,
+    "timestamp": "2025-11-21T01:37:11Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 24.3,
+    "timestamp": "2025-10-17T16:31:28Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 61.9,
+    "timestamp": "2025-09-05T02:13:11Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 83.7,
+    "timestamp": "2025-09-16T06:44:35Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 72.9,
+    "timestamp": "2025-09-24T21:27:47Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 33.3,
+    "timestamp": "2025-11-20T14:01:41Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 64.7,
+    "timestamp": "2025-12-01T04:11:53Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 56.6,
+    "timestamp": "2025-11-25T17:40:01Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 66.8,
+    "timestamp": "2025-09-01T21:58:58Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 35.3,
+    "timestamp": "2025-10-05T13:55:27Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 39.6,
+    "timestamp": "2025-10-13T23:14:25Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 14.6,
+    "timestamp": "2025-09-16T15:54:59Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 15.7,
+    "timestamp": "2025-10-24T17:19:29Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 58.6,
+    "timestamp": "2025-09-13T08:04:18Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 94.7,
+    "timestamp": "2025-10-05T15:57:52Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 63.0,
+    "timestamp": "2025-10-06T05:52:29Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 43.7,
+    "timestamp": "2025-09-01T10:21:04Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 71.0,
+    "timestamp": "2025-10-01T14:58:50Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 23.7,
+    "timestamp": "2025-11-28T07:39:27Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 35.3,
+    "timestamp": "2025-10-09T15:16:54Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 22.1,
+    "timestamp": "2025-10-20T04:06:06Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 43.1,
+    "timestamp": "2025-11-21T23:08:15Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 54.6,
+    "timestamp": "2025-09-20T19:06:51Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 38.9,
+    "timestamp": "2025-10-21T01:10:08Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 40.2,
+    "timestamp": "2025-09-20T17:38:11Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 77.7,
+    "timestamp": "2025-09-01T19:42:13Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 29.1,
+    "timestamp": "2025-09-12T21:55:26Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 69.5,
+    "timestamp": "2025-10-09T23:45:02Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 95.4,
+    "timestamp": "2025-10-24T03:13:26Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 71.1,
+    "timestamp": "2025-12-03T11:57:40Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 32.2,
+    "timestamp": "2025-10-02T22:45:15Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 24.3,
+    "timestamp": "2025-09-11T01:25:48Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 36.8,
+    "timestamp": "2025-11-20T06:49:18Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 23.0,
+    "timestamp": "2025-09-30T13:24:57Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 71.6,
+    "timestamp": "2025-10-14T21:22:36Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 36.8,
+    "timestamp": "2025-10-23T10:45:30Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 39.1,
+    "timestamp": "2025-11-17T20:34:29Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 83.5,
+    "timestamp": "2025-09-15T02:43:11Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 58.3,
+    "timestamp": "2025-09-07T15:20:29Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 32.9,
+    "timestamp": "2025-10-14T18:49:14Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 71.9,
+    "timestamp": "2025-09-17T03:20:21Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 26.2,
+    "timestamp": "2025-09-29T21:25:02Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 34.2,
+    "timestamp": "2025-10-14T15:31:02Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 50.7,
+    "timestamp": "2025-09-01T22:35:32Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 44.6,
+    "timestamp": "2025-10-22T19:51:07Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 33.5,
+    "timestamp": "2025-09-02T12:16:53Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 55.9,
+    "timestamp": "2025-10-01T18:12:19Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 72.5,
+    "timestamp": "2025-09-26T23:50:38Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 46.2,
+    "timestamp": "2025-09-15T05:19:31Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 26.4,
+    "timestamp": "2025-09-09T13:42:42Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 35.4,
+    "timestamp": "2025-09-13T02:51:51Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 80.1,
+    "timestamp": "2025-10-23T15:00:45Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 45.6,
+    "timestamp": "2025-11-29T07:31:56Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 36.3,
+    "timestamp": "2025-09-17T19:38:42Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 28.6,
+    "timestamp": "2025-10-23T18:02:36Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 31.3,
+    "timestamp": "2025-09-08T14:52:08Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 44.7,
+    "timestamp": "2025-10-25T02:33:16Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 65.7,
+    "timestamp": "2025-09-13T17:53:35Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 84.8,
+    "timestamp": "2025-09-08T18:57:33Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 48.3,
+    "timestamp": "2025-11-17T22:26:05Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 54.7,
+    "timestamp": "2025-10-17T06:52:52Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 55.8,
+    "timestamp": "2025-10-25T21:04:18Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 71.3,
+    "timestamp": "2025-09-08T05:48:17Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 67.1,
+    "timestamp": "2025-09-29T21:45:56Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 26.4,
+    "timestamp": "2025-10-19T04:08:04Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 42.5,
+    "timestamp": "2025-10-20T18:48:03Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 19.7,
+    "timestamp": "2025-12-03T11:04:43Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 9.5,
+    "timestamp": "2025-09-17T12:33:16Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 60.3,
+    "timestamp": "2025-11-25T05:31:53Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 25.3,
+    "timestamp": "2025-11-19T17:47:08Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 75.1,
+    "timestamp": "2025-10-10T07:17:13Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 65.7,
+    "timestamp": "2025-11-19T06:22:28Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 13.9,
+    "timestamp": "2025-10-11T15:46:02Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 54.1,
+    "timestamp": "2025-10-14T06:30:18Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 60.0,
+    "timestamp": "2025-10-08T05:22:17Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 60.6,
+    "timestamp": "2025-09-12T19:37:02Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 28.7,
+    "timestamp": "2025-09-08T11:27:33Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 24.5,
+    "timestamp": "2025-09-17T09:41:03Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 47.8,
+    "timestamp": "2025-12-04T19:28:00Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 31.6,
+    "timestamp": "2025-09-24T14:39:24Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 39.3,
+    "timestamp": "2025-09-07T08:21:56Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 57.2,
+    "timestamp": "2025-10-25T22:20:48Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 42.7,
+    "timestamp": "2025-10-20T20:23:47Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 94.5,
+    "timestamp": "2025-09-22T03:41:01Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 40.3,
+    "timestamp": "2025-10-15T15:42:30Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 56.6,
+    "timestamp": "2025-09-21T23:04:56Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 72.7,
+    "timestamp": "2025-09-07T14:45:31Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 28.6,
+    "timestamp": "2025-09-02T07:21:20Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 31.1,
+    "timestamp": "2025-10-18T08:45:37Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 48.5,
+    "timestamp": "2025-10-09T17:06:52Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 57.5,
+    "timestamp": "2025-10-08T16:25:47Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 53.6,
+    "timestamp": "2025-10-04T07:18:35Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 52.1,
+    "timestamp": "2025-09-26T20:51:53Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 67.1,
+    "timestamp": "2025-11-26T20:00:28Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 18.1,
+    "timestamp": "2025-09-24T04:46:04Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 80.2,
+    "timestamp": "2025-11-25T03:31:12Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 60.7,
+    "timestamp": "2025-10-03T03:43:53Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 55.9,
+    "timestamp": "2025-09-25T17:24:39Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 38.2,
+    "timestamp": "2025-09-01T08:35:49Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 23.9,
+    "timestamp": "2025-10-08T11:27:20Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 31.2,
+    "timestamp": "2025-09-13T18:07:47Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 32.1,
+    "timestamp": "2025-10-25T11:40:06Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 47.8,
+    "timestamp": "2025-09-07T08:29:45Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 53.8,
+    "timestamp": "2025-10-07T15:09:58Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 72.8,
+    "timestamp": "2025-09-25T02:47:15Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 15.3,
+    "timestamp": "2025-11-19T13:28:51Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 61.8,
+    "timestamp": "2025-09-21T09:26:06Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 43.0,
+    "timestamp": "2025-10-23T05:34:45Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 34.6,
+    "timestamp": "2025-09-01T12:45:54Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 39.8,
+    "timestamp": "2025-10-25T12:21:59Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 55.7,
+    "timestamp": "2025-10-10T13:26:00Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 13.7,
+    "timestamp": "2025-09-26T23:24:12Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 19.0,
+    "timestamp": "2025-09-21T21:28:12Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 48.8,
+    "timestamp": "2025-11-17T22:51:56Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 70.1,
+    "timestamp": "2025-09-04T18:17:21Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 88.6,
+    "timestamp": "2025-11-20T02:18:23Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 36.1,
+    "timestamp": "2025-09-22T00:28:34Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 95.9,
+    "timestamp": "2025-09-27T23:40:46Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 66.8,
+    "timestamp": "2025-09-20T04:29:24Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 35.6,
+    "timestamp": "2025-10-25T23:01:15Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 50.3,
+    "timestamp": "2025-10-20T11:11:48Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 48.5,
+    "timestamp": "2025-11-21T06:36:25Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 42.4,
+    "timestamp": "2025-12-01T03:38:09Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 24.6,
+    "timestamp": "2025-10-02T05:41:41Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 37.8,
+    "timestamp": "2025-09-21T02:49:49Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 69.9,
+    "timestamp": "2025-10-14T14:23:47Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 25.7,
+    "timestamp": "2025-10-06T21:50:32Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 88.4,
+    "timestamp": "2025-09-04T05:18:48Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 29.0,
+    "timestamp": "2025-09-25T01:41:15Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 71.0,
+    "timestamp": "2025-09-08T08:02:18Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 46.7,
+    "timestamp": "2025-10-22T16:47:39Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 57.8,
+    "timestamp": "2025-10-03T10:31:50Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 60.3,
+    "timestamp": "2025-10-16T09:33:24Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 51.6,
+    "timestamp": "2025-09-16T16:12:23Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 79.3,
+    "timestamp": "2025-09-17T02:59:04Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 32.1,
+    "timestamp": "2025-09-03T17:32:49Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 75.4,
+    "timestamp": "2025-09-23T12:47:03Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 33.0,
+    "timestamp": "2025-10-17T18:27:05Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 15.8,
+    "timestamp": "2025-09-05T03:32:51Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 53.3,
+    "timestamp": "2025-10-15T10:41:23Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 13.7,
+    "timestamp": "2025-09-19T13:15:07Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 70.2,
+    "timestamp": "2025-10-14T10:56:29Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 27.5,
+    "timestamp": "2025-11-23T18:08:51Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 23.8,
+    "timestamp": "2025-09-12T13:20:39Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 65.4,
+    "timestamp": "2025-09-07T11:58:13Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 85.2,
+    "timestamp": "2025-09-09T11:32:31Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 36.6,
+    "timestamp": "2025-09-27T06:28:03Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 28.9,
+    "timestamp": "2025-09-27T00:17:34Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 39.2,
+    "timestamp": "2025-11-17T06:36:43Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 51.3,
+    "timestamp": "2025-10-19T02:57:31Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 30.1,
+    "timestamp": "2025-09-15T21:33:55Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 32.3,
+    "timestamp": "2025-09-21T08:06:22Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 36.2,
+    "timestamp": "2025-09-24T15:55:59Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 32.8,
+    "timestamp": "2025-09-05T04:54:59Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 25.1,
+    "timestamp": "2025-09-18T01:32:37Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 41.1,
+    "timestamp": "2025-10-22T15:19:19Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 54.0,
+    "timestamp": "2025-10-15T12:17:39Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 36.2,
+    "timestamp": "2025-10-15T10:59:13Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 44.6,
+    "timestamp": "2025-10-04T13:22:05Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 51.3,
+    "timestamp": "2025-10-08T07:58:38Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 10.5,
+    "timestamp": "2025-09-15T06:41:17Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 40.6,
+    "timestamp": "2025-09-22T03:37:38Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 78.3,
+    "timestamp": "2025-10-15T01:21:08Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 73.1,
+    "timestamp": "2025-10-11T15:40:44Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 67.5,
+    "timestamp": "2025-09-04T07:56:42Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 55.4,
+    "timestamp": "2025-09-03T11:47:38Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 54.5,
+    "timestamp": "2025-11-25T12:33:26Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 36.4,
+    "timestamp": "2025-11-17T08:55:57Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 54.9,
+    "timestamp": "2025-10-03T09:19:44Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 72.6,
+    "timestamp": "2025-09-12T06:27:19Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 76.2,
+    "timestamp": "2025-09-25T19:52:26Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 40.7,
+    "timestamp": "2025-10-21T08:38:10Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 49.8,
+    "timestamp": "2025-09-21T08:44:02Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 22.6,
+    "timestamp": "2025-09-09T12:52:10Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 52.0,
+    "timestamp": "2025-11-28T13:26:34Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 46.5,
+    "timestamp": "2025-09-04T19:25:00Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 0,
+    "timestamp": "2025-11-28T02:32:32Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 59.8,
+    "timestamp": "2025-09-22T19:43:25Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 30.1,
+    "timestamp": "2025-10-24T11:46:31Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 58.7,
+    "timestamp": "2025-09-29T17:37:48Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 21.4,
+    "timestamp": "2025-10-02T08:27:16Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 26.8,
+    "timestamp": "2025-11-27T00:54:56Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 57.5,
+    "timestamp": "2025-10-16T04:04:35Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 57.0,
+    "timestamp": "2025-10-08T13:43:34Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 77.0,
+    "timestamp": "2025-10-13T09:38:54Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 63.1,
+    "timestamp": "2025-09-22T20:50:04Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 52.8,
+    "timestamp": "2025-09-22T06:45:39Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 59.7,
+    "timestamp": "2025-10-06T16:09:51Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 48.3,
+    "timestamp": "2025-09-13T06:30:52Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 59.2,
+    "timestamp": "2025-10-06T23:49:20Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 27.0,
+    "timestamp": "2025-10-13T21:32:40Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 26.6,
+    "timestamp": "2025-10-21T04:22:55Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 68.9,
+    "timestamp": "2025-09-29T15:01:04Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 31.3,
+    "timestamp": "2025-11-27T13:22:16Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 51.3,
+    "timestamp": "2025-10-21T14:07:11Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 73.6,
+    "timestamp": "2025-09-12T01:02:39Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 34.9,
+    "timestamp": "2025-09-07T16:56:17Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 13.9,
+    "timestamp": "2025-11-21T03:13:06Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 39.6,
+    "timestamp": "2025-12-02T03:01:47Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 47.2,
+    "timestamp": "2025-10-17T11:08:14Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 72.2,
+    "timestamp": "2025-09-09T12:34:54Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 43.6,
+    "timestamp": "2025-10-13T08:44:47Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 71.9,
+    "timestamp": "2025-10-17T06:24:15Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 39.2,
+    "timestamp": "2025-11-27T08:13:50Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 32.4,
+    "timestamp": "2025-12-03T08:23:38Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 99.8,
+    "timestamp": "2025-11-30T07:44:55Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 74.3,
+    "timestamp": "2025-10-14T02:43:56Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 42.4,
+    "timestamp": "2025-10-16T23:44:35Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 16.2,
+    "timestamp": "2025-09-22T04:34:33Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 67.5,
+    "timestamp": "2025-09-04T07:53:00Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 40.3,
+    "timestamp": "2025-10-13T01:33:31Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 99.4,
+    "timestamp": "2025-09-01T01:29:46Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 43.9,
+    "timestamp": "2025-09-30T17:21:23Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 51.9,
+    "timestamp": "2025-11-21T00:59:07Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 29.7,
+    "timestamp": "2025-10-05T14:22:22Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 43.6,
+    "timestamp": "2025-10-06T06:21:06Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 50.8,
+    "timestamp": "2025-09-23T12:31:49Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 36.9,
+    "timestamp": "2025-11-28T11:58:33Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 5.0,
+    "timestamp": "2025-10-22T09:14:12Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 46.7,
+    "timestamp": "2025-09-01T17:06:04Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 37.6,
+    "timestamp": "2025-10-03T22:51:07Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 26.3,
+    "timestamp": "2025-11-24T14:36:59Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 58.1,
+    "timestamp": "2025-09-18T08:35:02Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 33.7,
+    "timestamp": "2025-11-22T03:23:13Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 53.6,
+    "timestamp": "2025-10-25T20:44:33Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 96.5,
+    "timestamp": "2025-11-21T08:21:34Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 3.1,
+    "timestamp": "2025-11-30T00:01:49Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 72.6,
+    "timestamp": "2025-10-05T06:19:35Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 59.6,
+    "timestamp": "2025-11-30T05:33:16Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 42.7,
+    "timestamp": "2025-11-17T02:09:27Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 86.8,
+    "timestamp": "2025-09-01T23:13:48Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 73.5,
+    "timestamp": "2025-11-17T16:51:59Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 59.5,
+    "timestamp": "2025-09-05T15:02:18Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 42.2,
+    "timestamp": "2025-10-09T09:25:31Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 66.2,
+    "timestamp": "2025-09-24T18:59:19Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 32.7,
+    "timestamp": "2025-10-06T05:25:40Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 54.9,
+    "timestamp": "2025-11-25T03:12:55Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 65.4,
+    "timestamp": "2025-10-20T03:54:40Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 45.3,
+    "timestamp": "2025-09-29T05:25:13Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 53.7,
+    "timestamp": "2025-09-03T02:29:05Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 63.7,
+    "timestamp": "2025-10-14T12:02:38Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 45.8,
+    "timestamp": "2025-10-10T18:29:07Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 39.6,
+    "timestamp": "2025-10-24T04:42:23Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 36.2,
+    "timestamp": "2025-11-21T11:06:41Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 19.6,
+    "timestamp": "2025-10-24T14:08:13Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 47.2,
+    "timestamp": "2025-09-23T22:54:39Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 67.7,
+    "timestamp": "2025-11-30T10:29:47Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 48.8,
+    "timestamp": "2025-10-25T21:30:02Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 80.9,
+    "timestamp": "2025-09-30T21:52:45Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 70.8,
+    "timestamp": "2025-09-21T00:37:13Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 74.1,
+    "timestamp": "2025-10-25T01:21:52Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 14.5,
+    "timestamp": "2025-10-17T06:13:59Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 41.3,
+    "timestamp": "2025-10-25T17:26:15Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 26.7,
+    "timestamp": "2025-09-18T18:00:58Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 9.4,
+    "timestamp": "2025-10-09T15:25:06Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 64.7,
+    "timestamp": "2025-09-25T04:18:01Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 61.5,
+    "timestamp": "2025-11-29T22:06:37Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 9.7,
+    "timestamp": "2025-09-08T06:59:30Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 40.3,
+    "timestamp": "2025-10-23T23:39:19Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 24.1,
+    "timestamp": "2025-11-17T08:00:00Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 24.5,
+    "timestamp": "2025-09-04T10:46:50Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 100,
+    "timestamp": "2025-09-30T21:24:02Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 27.0,
+    "timestamp": "2025-11-22T05:07:40Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 63.2,
+    "timestamp": "2025-10-22T06:48:53Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 57.2,
+    "timestamp": "2025-10-13T06:39:39Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 58.6,
+    "timestamp": "2025-11-22T12:32:08Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 73.3,
+    "timestamp": "2025-09-03T19:11:12Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 42.3,
+    "timestamp": "2025-10-25T17:23:47Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 37.3,
+    "timestamp": "2025-10-08T11:01:48Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 18.1,
+    "timestamp": "2025-10-20T20:30:41Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 34.4,
+    "timestamp": "2025-10-18T20:51:24Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 74.0,
+    "timestamp": "2025-10-15T08:36:07Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 71.7,
+    "timestamp": "2025-09-29T11:22:41Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 36.7,
+    "timestamp": "2025-09-03T23:26:29Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 23.0,
+    "timestamp": "2025-11-19T12:10:20Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 54.7,
+    "timestamp": "2025-09-07T15:16:53Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 76.0,
+    "timestamp": "2025-10-25T18:38:46Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 65.5,
+    "timestamp": "2025-09-04T20:15:43Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 41.7,
+    "timestamp": "2025-09-15T11:04:14Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 35.6,
+    "timestamp": "2025-10-21T20:47:01Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 24.5,
+    "timestamp": "2025-10-10T09:26:36Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 43.8,
+    "timestamp": "2025-09-10T10:16:21Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 47.4,
+    "timestamp": "2025-11-20T12:22:48Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 43.1,
+    "timestamp": "2025-09-03T20:36:02Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 86.3,
+    "timestamp": "2025-11-18T15:09:58Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 44.6,
+    "timestamp": "2025-11-24T07:41:04Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 35.2,
+    "timestamp": "2025-09-10T16:41:13Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 99.6,
+    "timestamp": "2025-11-25T23:05:16Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 46.4,
+    "timestamp": "2025-10-18T05:15:31Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 42.2,
+    "timestamp": "2025-10-25T01:44:21Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 85.5,
+    "timestamp": "2025-11-22T17:28:38Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 21.6,
+    "timestamp": "2025-09-29T17:09:54Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 23.4,
+    "timestamp": "2025-10-22T08:09:39Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 28.7,
+    "timestamp": "2025-09-02T10:41:37Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 29.0,
+    "timestamp": "2025-09-26T02:47:46Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 37.0,
+    "timestamp": "2025-09-27T03:10:17Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 19.5,
+    "timestamp": "2025-10-06T03:22:06Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 94.5,
+    "timestamp": "2025-09-30T00:20:04Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 30.5,
+    "timestamp": "2025-11-28T09:48:03Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 36.1,
+    "timestamp": "2025-10-10T18:05:48Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 76.4,
+    "timestamp": "2025-09-15T04:16:13Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 43.8,
+    "timestamp": "2025-10-15T07:28:21Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 31.9,
+    "timestamp": "2025-09-23T10:14:24Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 57.1,
+    "timestamp": "2025-10-23T07:10:40Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 98.4,
+    "timestamp": "2025-11-27T02:21:13Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 60.5,
+    "timestamp": "2025-10-24T05:09:34Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 29.3,
+    "timestamp": "2025-09-26T18:05:06Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 53.0,
+    "timestamp": "2025-11-27T02:39:08Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 68.5,
+    "timestamp": "2025-10-22T01:04:57Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 59.4,
+    "timestamp": "2025-12-04T15:33:20Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 76.8,
+    "timestamp": "2025-10-10T18:17:53Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 21.3,
+    "timestamp": "2025-09-02T01:34:37Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 57.8,
+    "timestamp": "2025-10-23T22:26:55Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 29.1,
+    "timestamp": "2025-11-26T12:58:40Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 35.1,
+    "timestamp": "2025-09-03T09:19:57Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 36.6,
+    "timestamp": "2025-09-07T05:54:13Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 66.1,
+    "timestamp": "2025-09-01T03:04:55Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 51.6,
+    "timestamp": "2025-12-01T07:32:25Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 22.6,
+    "timestamp": "2025-10-18T23:58:56Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 37.6,
+    "timestamp": "2025-10-16T01:31:44Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 54.8,
+    "timestamp": "2025-10-24T11:32:05Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 57.6,
+    "timestamp": "2025-10-21T18:38:55Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 61.8,
+    "timestamp": "2025-10-15T18:35:52Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 44.9,
+    "timestamp": "2025-11-22T19:00:58Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 60.5,
+    "timestamp": "2025-09-26T08:51:34Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 45.1,
+    "timestamp": "2025-10-11T06:03:16Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 42.8,
+    "timestamp": "2025-09-19T05:24:55Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 85.2,
+    "timestamp": "2025-09-27T22:04:23Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 45.6,
+    "timestamp": "2025-09-07T22:39:40Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 65.9,
+    "timestamp": "2025-10-14T04:12:01Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 80.0,
+    "timestamp": "2025-10-13T05:38:04Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 87.8,
+    "timestamp": "2025-09-23T08:07:48Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 31.2,
+    "timestamp": "2025-09-13T12:32:20Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 29.8,
+    "timestamp": "2025-09-09T19:33:31Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 57.0,
+    "timestamp": "2025-09-15T03:13:48Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 100,
+    "timestamp": "2025-09-15T00:25:09Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 65.0,
+    "timestamp": "2025-12-01T01:14:02Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 40.1,
+    "timestamp": "2025-10-14T23:47:26Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 41.1,
+    "timestamp": "2025-09-17T16:34:45Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 59.3,
+    "timestamp": "2025-09-30T04:05:56Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 61.9,
+    "timestamp": "2025-09-12T14:33:40Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 96.0,
+    "timestamp": "2025-09-16T19:35:26Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 7.2,
+    "timestamp": "2025-10-15T14:11:55Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 91.0,
+    "timestamp": "2025-09-04T22:45:10Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 28.5,
+    "timestamp": "2025-10-25T17:31:18Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 49.0,
+    "timestamp": "2025-10-06T08:59:49Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 42.0,
+    "timestamp": "2025-09-01T00:23:53Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 88.8,
+    "timestamp": "2025-11-26T17:16:49Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 61.0,
+    "timestamp": "2025-10-05T23:24:37Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 49.5,
+    "timestamp": "2025-09-29T09:06:51Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 12.2,
+    "timestamp": "2025-09-18T14:21:55Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 35.5,
+    "timestamp": "2025-09-30T03:07:27Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 62.1,
+    "timestamp": "2025-09-25T17:21:32Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 21.6,
+    "timestamp": "2025-10-19T20:08:05Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 33.5,
+    "timestamp": "2025-09-22T08:07:04Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 62.3,
+    "timestamp": "2025-09-04T17:14:13Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 38.7,
+    "timestamp": "2025-10-13T16:57:43Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 67.2,
+    "timestamp": "2025-09-10T10:40:09Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 29.8,
+    "timestamp": "2025-10-19T00:29:52Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 30.4,
+    "timestamp": "2025-11-23T08:13:11Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 17.7,
+    "timestamp": "2025-09-24T14:27:04Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 66.2,
+    "timestamp": "2025-10-15T11:21:55Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 32.6,
+    "timestamp": "2025-09-25T14:29:39Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 24.8,
+    "timestamp": "2025-10-04T02:09:59Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 94.4,
+    "timestamp": "2025-09-18T17:47:17Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 65.4,
+    "timestamp": "2025-09-05T14:43:44Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 58.8,
+    "timestamp": "2025-10-06T22:03:19Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 50.7,
+    "timestamp": "2025-09-07T00:48:23Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 29.5,
+    "timestamp": "2025-10-15T06:13:53Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 54.3,
+    "timestamp": "2025-10-22T06:17:16Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 75.2,
+    "timestamp": "2025-09-04T15:50:05Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 78.9,
+    "timestamp": "2025-10-21T16:30:16Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 55.6,
+    "timestamp": "2025-09-18T14:33:47Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 60.6,
+    "timestamp": "2025-11-30T12:53:03Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 15.7,
+    "timestamp": "2025-10-23T04:05:51Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 41.7,
+    "timestamp": "2025-09-20T10:02:42Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 35.0,
+    "timestamp": "2025-10-10T22:36:30Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 48.4,
+    "timestamp": "2025-10-16T13:11:34Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 10.3,
+    "timestamp": "2025-09-03T07:33:12Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 53.1,
+    "timestamp": "2025-10-08T05:14:59Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 54.1,
+    "timestamp": "2025-09-09T05:39:29Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 53.0,
+    "timestamp": "2025-10-25T21:34:49Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 97.8,
+    "timestamp": "2025-10-23T00:12:26Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 69.2,
+    "timestamp": "2025-09-09T07:25:11Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 49.9,
+    "timestamp": "2025-09-27T16:32:34Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 18.3,
+    "timestamp": "2025-10-19T01:01:51Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 33.9,
+    "timestamp": "2025-09-16T08:24:36Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 35.5,
+    "timestamp": "2025-10-01T20:22:56Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 65.1,
+    "timestamp": "2025-12-03T01:55:37Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 24.4,
+    "timestamp": "2025-10-05T19:13:29Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 37.4,
+    "timestamp": "2025-11-29T02:23:35Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 82.9,
+    "timestamp": "2025-10-18T14:39:38Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 52.7,
+    "timestamp": "2025-10-18T20:49:21Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 27.4,
+    "timestamp": "2025-10-17T20:11:29Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 44.5,
+    "timestamp": "2025-09-18T21:11:46Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 13.0,
+    "timestamp": "2025-12-04T20:12:07Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 73.3,
+    "timestamp": "2025-11-17T18:09:59Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 53.3,
+    "timestamp": "2025-10-15T07:10:53Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 62.6,
+    "timestamp": "2025-10-04T02:48:17Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 53.1,
+    "timestamp": "2025-10-09T00:33:34Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 37.7,
+    "timestamp": "2025-10-22T04:50:38Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 29.5,
+    "timestamp": "2025-09-27T00:32:59Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 72.6,
+    "timestamp": "2025-09-06T13:58:45Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 81.2,
+    "timestamp": "2025-10-23T09:30:25Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 40.4,
+    "timestamp": "2025-09-24T03:39:54Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 3.9,
+    "timestamp": "2025-09-15T18:51:51Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 48.9,
+    "timestamp": "2025-11-20T12:56:43Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 39.3,
+    "timestamp": "2025-09-09T08:19:05Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 36.0,
+    "timestamp": "2025-10-14T05:17:34Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 60.9,
+    "timestamp": "2025-10-15T06:17:13Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 21.0,
+    "timestamp": "2025-10-02T17:00:55Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 33.7,
+    "timestamp": "2025-10-01T07:40:39Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 63.4,
+    "timestamp": "2025-09-19T19:59:23Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 69.6,
+    "timestamp": "2025-09-02T17:47:42Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 69.4,
+    "timestamp": "2025-11-24T22:20:45Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 43.0,
+    "timestamp": "2025-10-04T11:28:20Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 6.9,
+    "timestamp": "2025-09-21T14:02:59Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 39.7,
+    "timestamp": "2025-10-09T07:04:20Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 41.3,
+    "timestamp": "2025-09-21T12:39:23Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 53.6,
+    "timestamp": "2025-10-19T10:03:59Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 42.1,
+    "timestamp": "2025-10-07T15:24:03Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 10.1,
+    "timestamp": "2025-09-24T12:07:27Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 29.3,
+    "timestamp": "2025-09-01T19:34:43Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 59.5,
+    "timestamp": "2025-09-12T19:35:03Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 33.8,
+    "timestamp": "2025-09-13T23:05:02Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 40.2,
+    "timestamp": "2025-09-17T15:37:44Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 44.1,
+    "timestamp": "2025-11-23T06:13:46Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 34.6,
+    "timestamp": "2025-10-07T14:08:04Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 85.1,
+    "timestamp": "2025-10-04T19:22:14Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 53.9,
+    "timestamp": "2025-10-15T07:52:30Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 57.1,
+    "timestamp": "2025-10-15T00:05:09Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 45.9,
+    "timestamp": "2025-09-20T08:56:46Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 63.2,
+    "timestamp": "2025-10-05T17:32:44Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 44.4,
+    "timestamp": "2025-10-02T03:35:56Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 47.3,
+    "timestamp": "2025-09-16T15:20:26Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 56.0,
+    "timestamp": "2025-09-02T02:37:52Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 43.9,
+    "timestamp": "2025-11-18T09:43:57Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 46.7,
+    "timestamp": "2025-10-20T17:46:29Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 69.2,
+    "timestamp": "2025-10-04T13:47:20Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 82.6,
+    "timestamp": "2025-09-04T23:36:17Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 26.3,
+    "timestamp": "2025-10-09T06:29:23Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 76.6,
+    "timestamp": "2025-11-25T16:53:56Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 49.3,
+    "timestamp": "2025-10-13T23:26:11Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 39.6,
+    "timestamp": "2025-10-04T22:15:19Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 24.8,
+    "timestamp": "2025-09-08T13:09:28Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 25.0,
+    "timestamp": "2025-09-01T16:43:08Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 58.7,
+    "timestamp": "2025-10-18T15:26:54Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 44.5,
+    "timestamp": "2025-09-23T03:15:40Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 28.6,
+    "timestamp": "2025-11-20T14:08:43Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 95.5,
+    "timestamp": "2025-09-25T14:51:44Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 45.0,
+    "timestamp": "2025-09-16T18:57:46Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 27.0,
+    "timestamp": "2025-10-19T23:19:56Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 53.9,
+    "timestamp": "2025-12-01T11:50:43Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 14.2,
+    "timestamp": "2025-10-11T08:07:31Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 54.9,
+    "timestamp": "2025-10-19T04:29:02Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 63.6,
+    "timestamp": "2025-09-26T11:00:05Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 64.1,
+    "timestamp": "2025-10-08T07:12:39Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 21.6,
+    "timestamp": "2025-09-16T08:04:37Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 60.3,
+    "timestamp": "2025-10-02T07:54:12Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 36.6,
+    "timestamp": "2025-11-22T03:25:34Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 46.1,
+    "timestamp": "2025-09-13T08:21:35Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 22.1,
+    "timestamp": "2025-09-23T10:46:48Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 14.0,
+    "timestamp": "2025-09-19T15:45:17Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 33.8,
+    "timestamp": "2025-09-18T08:09:27Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 68.7,
+    "timestamp": "2025-09-29T11:30:01Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 35.1,
+    "timestamp": "2025-09-20T19:25:34Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 26.5,
+    "timestamp": "2025-09-15T06:38:18Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 22.6,
+    "timestamp": "2025-10-06T07:42:44Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 63.3,
+    "timestamp": "2025-10-15T20:27:29Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 0,
+    "timestamp": "2025-09-19T10:04:13Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 62.5,
+    "timestamp": "2025-09-06T11:45:56Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 64.5,
+    "timestamp": "2025-09-11T07:59:26Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 28.3,
+    "timestamp": "2025-09-03T18:30:21Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 5.6,
+    "timestamp": "2025-12-04T14:06:04Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 29.3,
+    "timestamp": "2025-09-16T07:45:49Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 37.9,
+    "timestamp": "2025-10-01T06:14:59Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 65.7,
+    "timestamp": "2025-09-22T13:14:32Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 72.1,
+    "timestamp": "2025-12-01T07:43:15Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 68.1,
+    "timestamp": "2025-09-16T05:27:10Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 43.4,
+    "timestamp": "2025-10-20T00:07:40Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 40.3,
+    "timestamp": "2025-10-04T14:41:33Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 58.5,
+    "timestamp": "2025-10-05T16:02:36Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 97.5,
+    "timestamp": "2025-11-17T21:22:39Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 27.6,
+    "timestamp": "2025-09-15T12:40:55Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 33.8,
+    "timestamp": "2025-11-22T17:54:34Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 62.3,
+    "timestamp": "2025-10-03T08:15:54Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 48.2,
+    "timestamp": "2025-10-04T20:11:53Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 38.9,
+    "timestamp": "2025-10-19T18:16:39Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 59.5,
+    "timestamp": "2025-09-01T06:45:32Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 31.7,
+    "timestamp": "2025-11-24T21:22:43Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 100,
+    "timestamp": "2025-10-20T20:25:25Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 43.7,
+    "timestamp": "2025-10-10T07:52:16Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 34.8,
+    "timestamp": "2025-09-21T01:43:04Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 52.0,
+    "timestamp": "2025-09-23T19:39:44Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 42.8,
+    "timestamp": "2025-09-10T07:53:10Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 15.1,
+    "timestamp": "2025-09-16T11:30:37Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 73.2,
+    "timestamp": "2025-10-21T16:16:29Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 47.9,
+    "timestamp": "2025-09-07T22:03:40Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 74.2,
+    "timestamp": "2025-10-13T18:04:34Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 69.6,
+    "timestamp": "2025-09-06T04:06:49Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 19.3,
+    "timestamp": "2025-09-13T17:23:14Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 49.5,
+    "timestamp": "2025-09-26T00:19:18Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 47.2,
+    "timestamp": "2025-11-19T22:31:10Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 17.2,
+    "timestamp": "2025-11-25T07:58:12Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 38.0,
+    "timestamp": "2025-11-20T20:23:52Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 22.8,
+    "timestamp": "2025-09-17T21:38:44Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 54.4,
+    "timestamp": "2025-09-15T12:26:29Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 62.6,
+    "timestamp": "2025-09-20T07:45:48Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 58.7,
+    "timestamp": "2025-10-07T00:58:44Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 44.7,
+    "timestamp": "2025-11-29T09:21:19Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 36.4,
+    "timestamp": "2025-09-25T22:26:16Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 53.2,
+    "timestamp": "2025-10-15T12:23:18Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 65.9,
+    "timestamp": "2025-09-23T17:56:01Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 45.8,
+    "timestamp": "2025-10-17T23:44:30Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 58.6,
+    "timestamp": "2025-10-05T21:07:27Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 71.4,
+    "timestamp": "2025-10-24T19:02:04Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 84.1,
+    "timestamp": "2025-09-05T05:16:29Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 6.2,
+    "timestamp": "2025-10-15T08:52:10Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 30.9,
+    "timestamp": "2025-09-21T16:42:45Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 38.8,
+    "timestamp": "2025-10-21T10:54:14Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 50.7,
+    "timestamp": "2025-09-27T06:36:38Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 56.5,
+    "timestamp": "2025-09-15T13:05:44Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 66.4,
+    "timestamp": "2025-10-14T20:49:09Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 33.4,
+    "timestamp": "2025-09-18T13:04:47Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 63.4,
+    "timestamp": "2025-09-29T17:57:12Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 48.1,
+    "timestamp": "2025-09-21T12:21:29Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 40.3,
+    "timestamp": "2025-09-29T04:12:17Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 52.9,
+    "timestamp": "2025-10-25T05:43:30Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 51.5,
+    "timestamp": "2025-09-21T06:11:27Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 50.8,
+    "timestamp": "2025-10-15T23:22:39Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 39.8,
+    "timestamp": "2025-09-30T22:34:41Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 40.9,
+    "timestamp": "2025-12-02T06:30:53Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 30.2,
+    "timestamp": "2025-09-10T05:57:48Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 24.0,
+    "timestamp": "2025-11-19T20:39:33Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 67.6,
+    "timestamp": "2025-10-06T03:50:14Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 51.6,
+    "timestamp": "2025-10-16T06:10:37Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 58.0,
+    "timestamp": "2025-10-19T10:06:51Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 51.4,
+    "timestamp": "2025-09-16T08:16:49Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 59.2,
+    "timestamp": "2025-10-19T23:33:22Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 49.9,
+    "timestamp": "2025-10-13T05:40:31Z"
+  },
+  {
+    "studentId": "student_014",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 48.9,
+    "timestamp": "2025-09-08T02:09:16Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 23.0,
+    "timestamp": "2025-10-18T08:28:23Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 50.6,
+    "timestamp": "2025-09-20T00:44:53Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 30.4,
+    "timestamp": "2025-11-21T23:52:41Z"
+  },
+  {
+    "studentId": "student_027",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 42.8,
+    "timestamp": "2025-12-04T02:10:31Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 64.2,
+    "timestamp": "2025-09-02T01:32:43Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 82.8,
+    "timestamp": "2025-09-11T07:00:23Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 61.1,
+    "timestamp": "2025-10-01T16:02:12Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 50.4,
+    "timestamp": "2025-10-15T00:49:38Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 35.2,
+    "timestamp": "2025-10-14T10:58:25Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 45.3,
+    "timestamp": "2025-09-05T21:21:41Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 65.2,
+    "timestamp": "2025-09-15T00:19:59Z"
+  },
+  {
+    "studentId": "student_022",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 32.4,
+    "timestamp": "2025-10-22T06:05:10Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 40.2,
+    "timestamp": "2025-09-05T15:08:23Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 86.9,
+    "timestamp": "2025-10-01T01:35:23Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 48.8,
+    "timestamp": "2025-09-12T21:47:33Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 38.4,
+    "timestamp": "2025-11-24T20:11:52Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 70.4,
+    "timestamp": "2025-09-06T03:03:09Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 65.1,
+    "timestamp": "2025-10-14T07:16:49Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 76.4,
+    "timestamp": "2025-11-26T13:59:24Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 49.7,
+    "timestamp": "2025-09-03T16:35:52Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 27.0,
+    "timestamp": "2025-10-19T09:22:51Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 27.5,
+    "timestamp": "2025-10-15T08:29:56Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 47.8,
+    "timestamp": "2025-11-21T20:53:53Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 93.6,
+    "timestamp": "2025-09-03T05:56:44Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 32.5,
+    "timestamp": "2025-09-07T16:44:41Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 37.8,
+    "timestamp": "2025-09-13T09:50:14Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 13.7,
+    "timestamp": "2025-10-22T17:01:46Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 41.6,
+    "timestamp": "2025-09-21T03:26:52Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 32.3,
+    "timestamp": "2025-10-13T12:05:06Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 16.9,
+    "timestamp": "2025-10-06T02:35:14Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 39.9,
+    "timestamp": "2025-11-24T13:11:35Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 46.5,
+    "timestamp": "2025-10-16T14:24:17Z"
+  },
+  {
+    "studentId": "student_028",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 47.9,
+    "timestamp": "2025-09-15T07:06:41Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 54.0,
+    "timestamp": "2025-12-04T17:13:53Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 32.9,
+    "timestamp": "2025-09-03T16:01:07Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 34.7,
+    "timestamp": "2025-09-09T04:38:43Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 38.9,
+    "timestamp": "2025-10-18T01:02:42Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 58.1,
+    "timestamp": "2025-10-15T04:28:37Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 30.3,
+    "timestamp": "2025-10-05T05:05:42Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 10.1,
+    "timestamp": "2025-11-19T18:23:00Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 54.7,
+    "timestamp": "2025-09-15T05:39:51Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 44.4,
+    "timestamp": "2025-10-14T19:06:23Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 32.5,
+    "timestamp": "2025-10-09T23:45:21Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 60.7,
+    "timestamp": "2025-10-16T05:43:00Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 48.2,
+    "timestamp": "2025-10-15T05:08:07Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 50.3,
+    "timestamp": "2025-09-22T14:01:59Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p1_trees",
+    "score": 24.3,
+    "timestamp": "2025-10-16T18:33:17Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 91.8,
+    "timestamp": "2025-10-21T02:11:50Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 60.9,
+    "timestamp": "2025-10-08T04:56:40Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 58.2,
+    "timestamp": "2025-09-26T12:27:51Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 24.9,
+    "timestamp": "2025-09-24T05:11:16Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p3_loops",
+    "score": 64.4,
+    "timestamp": "2025-09-08T07:35:22Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 60.5,
+    "timestamp": "2025-09-24T07:05:48Z"
+  },
+  {
+    "studentId": "student_029",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 68.7,
+    "timestamp": "2025-10-24T19:28:57Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 12.1,
+    "timestamp": "2025-11-23T04:48:50Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 42.1,
+    "timestamp": "2025-10-04T17:35:38Z"
+  },
+  {
+    "studentId": "student_012",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 20.5,
+    "timestamp": "2025-10-20T22:07:41Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 31.2,
+    "timestamp": "2025-10-05T14:31:46Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p1_advanced_dp",
+    "score": 41.8,
+    "timestamp": "2025-12-01T01:06:29Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p2_graphs",
+    "score": 50.5,
+    "timestamp": "2025-10-20T21:34:49Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 88.7,
+    "timestamp": "2025-12-02T21:14:08Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 80.8,
+    "timestamp": "2025-09-17T21:33:21Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 64.9,
+    "timestamp": "2025-10-05T10:10:23Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p1_arrays",
+    "score": 54.5,
+    "timestamp": "2025-09-12T06:09:36Z"
+  },
+  {
+    "studentId": "student_024",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 31.1,
+    "timestamp": "2025-11-22T17:27:36Z"
+  },
+  {
+    "studentId": "student_017",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 26.0,
+    "timestamp": "2025-09-21T10:29:50Z"
+  },
+  {
+    "studentId": "student_004",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 22.7,
+    "timestamp": "2025-09-19T11:51:27Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 60.4,
+    "timestamp": "2025-10-20T14:00:52Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 52.2,
+    "timestamp": "2025-10-21T21:04:51Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 31.8,
+    "timestamp": "2025-10-21T22:13:29Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 45.1,
+    "timestamp": "2025-09-25T22:07:44Z"
+  },
+  {
+    "studentId": "student_016",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 0,
+    "timestamp": "2025-09-20T18:44:33Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p5_backtracking",
+    "score": 51.3,
+    "timestamp": "2025-10-22T18:54:45Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p2_strings",
+    "score": 58.6,
+    "timestamp": "2025-09-05T08:44:22Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p4_hashmap",
+    "score": 59.4,
+    "timestamp": "2025-10-11T09:45:24Z"
+  },
+  {
+    "studentId": "student_005",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p1_linked_list",
+    "score": 58.9,
+    "timestamp": "2025-10-11T22:51:27Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 40.6,
+    "timestamp": "2025-09-27T05:42:58Z"
+  },
+  {
+    "studentId": "student_025",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 27.1,
+    "timestamp": "2025-09-30T04:35:40Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 45.2,
+    "timestamp": "2025-10-06T09:56:35Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p2_stack",
+    "score": 7.9,
+    "timestamp": "2025-10-08T08:04:56Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 66.9,
+    "timestamp": "2025-09-16T21:21:29Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 86.7,
+    "timestamp": "2025-10-17T02:14:22Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 49.6,
+    "timestamp": "2025-11-18T01:27:09Z"
+  },
+  {
+    "studentId": "student_006",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 66.7,
+    "timestamp": "2025-10-16T03:47:51Z"
+  },
+  {
+    "studentId": "student_001",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 74.0,
+    "timestamp": "2025-09-02T14:33:27Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 28.5,
+    "timestamp": "2025-10-10T09:52:24Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 75.0,
+    "timestamp": "2025-09-16T21:29:09Z"
+  },
+  {
+    "studentId": "student_023",
+    "assignmentId": "assignment_final",
+    "problemId": "p2_graph_algos",
+    "score": 43.4,
+    "timestamp": "2025-12-03T08:09:47Z"
+  },
+  {
+    "studentId": "student_009",
+    "assignmentId": "assignment_hw3",
+    "problemId": "p3_queue",
+    "score": 43.2,
+    "timestamp": "2025-10-04T22:39:06Z"
+  },
+  {
+    "studentId": "student_018",
+    "assignmentId": "assignment_hw1",
+    "problemId": "p4_conditionals",
+    "score": 63.0,
+    "timestamp": "2025-09-07T19:18:49Z"
+  },
+  {
+    "studentId": "student_015",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 20.2,
+    "timestamp": "2025-11-25T09:58:13Z"
+  },
+  {
+    "studentId": "student_003",
+    "assignmentId": "assignment_final",
+    "problemId": "p3_string_algos",
+    "score": 18.1,
+    "timestamp": "2025-11-28T21:33:47Z"
+  },
+  {
+    "studentId": "student_026",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 53.1,
+    "timestamp": "2025-10-16T03:56:56Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 35.2,
+    "timestamp": "2025-09-23T03:19:14Z"
+  },
+  {
+    "studentId": "student_030",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 53.7,
+    "timestamp": "2025-10-15T22:56:52Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p1_recursion",
+    "score": 76.5,
+    "timestamp": "2025-09-26T14:06:20Z"
+  },
+  {
+    "studentId": "student_002",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p3_searching",
+    "score": 7.3,
+    "timestamp": "2025-09-19T12:15:03Z"
+  },
+  {
+    "studentId": "student_019",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p6_review",
+    "score": 36.4,
+    "timestamp": "2025-10-23T05:40:52Z"
+  },
+  {
+    "studentId": "student_011",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p2_sorting",
+    "score": 38.2,
+    "timestamp": "2025-09-27T09:18:54Z"
+  },
+  {
+    "studentId": "student_013",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 12.7,
+    "timestamp": "2025-09-22T18:48:03Z"
+  },
+  {
+    "studentId": "student_021",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p5_proofs",
+    "score": 70.0,
+    "timestamp": "2025-09-16T12:50:18Z"
+  },
+  {
+    "studentId": "student_007",
+    "assignmentId": "assignment_hw2",
+    "problemId": "p4_complexity",
+    "score": 40.3,
+    "timestamp": "2025-09-17T11:53:16Z"
+  },
+  {
+    "studentId": "student_010",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p4_greedy",
+    "score": 39.9,
+    "timestamp": "2025-10-24T23:43:29Z"
+  },
+  {
+    "studentId": "student_020",
+    "assignmentId": "assignment_midterm",
+    "problemId": "p3_dp",
+    "score": 12.4,
+    "timestamp": "2025-10-19T22:57:56Z"
+  },
+  {
+    "studentId": "student_008",
+    "assignmentId": "assignment_final",
+    "problemId": "p4_optimization",
+    "score": 75.1,
+    "timestamp": "2025-11-20T01:32:03Z"
+  }
+]
